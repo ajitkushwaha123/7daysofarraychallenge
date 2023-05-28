@@ -1,1 +1,1 @@
-# 7daysofarraychallenge
+# 7 days of array challenge
